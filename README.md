@@ -21,6 +21,10 @@ It is a Selfie Timer Camera.
 ### Status
 * **Please note:** This app has been temporarily removed from the store for updates and maintenance.
 
+### Privacy
+* This app uses Crashlytics to collect application crash reports to help improve stability.
+* If you wish to request the deletion of your personal crash report data, please send an email to **muxixisoft@gmail.com**.
+
 ---
 
 ## Contact
