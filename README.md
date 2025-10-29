@@ -1,6 +1,8 @@
-# Welcome to MuxixiSoft
+# Welcome to Muxixi Studios
 
-My name is **MuxixiSoft** and I'm an indie game developer. Here are some of my apps.
+We are **Muxixi Studios**, an indie game developer. Here are some of our apps.
+
+My name is Muxixi, and **Muxixi Studios** is my indie game developer brand. Here are some of my apps.
 
 ---
 
@@ -15,11 +17,10 @@ My name is **MuxixiSoft** and I'm an indie game developer. Here are some of my a
 
 ## TimerCamera+
 
-**TimeraCamera** is a Selfie Timer Camera.
-It is a Selfie Timer Camera.
+**TimerCamera+** is a Selfie Timer Camera.
 
 ### Status
-* **Please note:** This app has been temporarily removed from the store for updates and maintenance.
+* **Please note:** This app is currently undergoing updates and will be back soon!
 
 ---
 
