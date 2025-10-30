@@ -1,7 +1,5 @@
 # Welcome to Muxixi Studios
 
-We are **Muxixi Studios**, an indie game developer. Here are some of our apps.
-
 My name is Muxixi, and **Muxixi Studios** is my indie game developer brand. Here are some of my apps.
 
 ---
