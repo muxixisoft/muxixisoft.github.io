@@ -9,7 +9,8 @@ My name is Muxixi, and **Muxixi Studios** is my indie game developer brand. Here
 **Quick Math Master** is a fun puzzle game designed to help you improve your mental math skills and calculation speed.
 
 ### Download
-* [**Get it on Google Play**](https://play.google.com/store/apps/details?id=com.aimuxixi.quick_math_master)
+* 🤖 **Android:** [**Get it on Google Play**](https://play.google.com/store/apps/details?id=com.aimuxixi.quick_math_master)
+* 🍎 **iOS:** [**Download on the App Store**](https://apps.apple.com/app/id6755707607)
 
 ---
 
