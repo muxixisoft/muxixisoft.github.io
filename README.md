@@ -4,6 +4,15 @@ My name is Muxixi, and **Muxixi Studios** is my indie game developer brand. Here
 
 ---
 
+## Crystal Smash
+
+**Crystal Smash** is a satisfying physics-based block puzzle game. Experience realistic ice-shattering effects, trigger explosive combos, and challenge the global leaderboard.
+
+### Download
+* 🤖 **Android:** **Coming Soon to Google Play**
+
+---
+
 ## Quick Math Master
 
 **Quick Math Master** is a fun puzzle game designed to help you improve your mental math skills and calculation speed.
