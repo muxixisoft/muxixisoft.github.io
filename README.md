@@ -28,7 +28,7 @@ My name is Muxixi, and **Muxixi Studios** is my indie game developer brand. Here
 **TimerCamera+** is a Selfie Timer Camera.
 
 ### Download
-* [**Get it on Google Play**](https://play.google.com/store/apps/details?id=com.muxixisoft.android.timercamera)
+* 🤖 **Android:** [**Get it on Google Play**](https://play.google.com/store/apps/details?id=com.muxixisoft.android.timercamera)
 
 ---
 
