@@ -9,7 +9,7 @@ My name is Muxixi, and **Muxixi Studios** is my indie game developer brand. Here
 **Crystal Smash** is a satisfying physics-based block puzzle game. Experience realistic ice-shattering effects, trigger explosive combos, and challenge the global leaderboard.
 
 ### Download
-* 🤖 **Android:** **Coming Soon to Google Play**
+* 🤖 **Android:** [**Get it on Google Play**](https://play.google.com/store/apps/details?id=com.muxixistudios.android.crystal_smash)
 
 ---
 
