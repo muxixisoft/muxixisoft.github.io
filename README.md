@@ -4,6 +4,15 @@ My name is Muxixi, and **Muxixi Studios** is my indie game developer brand. Here
 
 ---
 
+## TimerCamera+
+
+**TimerCamera+** is a Selfie Timer Camera.
+
+### Download
+* 🤖 **Android:** [**Get it on Google Play**](https://play.google.com/store/apps/details?id=com.muxixisoft.android.timercamera)
+
+---
+
 ## Crystal Smash
 
 **Crystal Smash** is a satisfying physics-based block puzzle game. Experience realistic ice-shattering effects, trigger explosive combos, and challenge the global leaderboard.
@@ -20,15 +29,6 @@ My name is Muxixi, and **Muxixi Studios** is my indie game developer brand. Here
 ### Download
 * 🤖 **Android:** [**Get it on Google Play**](https://play.google.com/store/apps/details?id=com.aimuxixi.quick_math_master)
 * 🍎 **iOS:** [**Download on the App Store**](https://apps.apple.com/app/id6755707607)
-
----
-
-## TimerCamera+
-
-**TimerCamera+** is a Selfie Timer Camera.
-
-### Download
-* 🤖 **Android:** [**Get it on Google Play**](https://play.google.com/store/apps/details?id=com.muxixisoft.android.timercamera)
 
 ---
 
