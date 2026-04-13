@@ -1,36 +1,49 @@
 # Welcome to Muxixi Studios
 
-My name is Muxixi, and **Muxixi Studios** is my indie game developer brand. Here are some of my apps.
+Focusing on the intersection of utility and play. I am an indie developer dedicated to creating high-quality, lightweight, and purposeful digital experiences.
 
 ---
 
-## TimerCamera+
+## 📸 TimerCamera+ 
+### Professional Timestamp & Hands-free Video
 
-**TimerCamera+** is a Selfie Timer Camera.
+**TimerCamera+** is a minimal yet powerful camera built for precision. Whether you are capturing group photos without missing a person or recording work logs with unforgeable timestamps, it delivers professional results in an ultra-lightweight package.
 
-### Download
+* **Aesthetic Timestamps:** Choose from Cinema, Amber, or Pixel styles to mark your memories.
+* **Video Mode:** High-resolution recording with integrated audio and real-time watermarks.
+* **Layout Pro:** Specifically optimized for 20:9 and 19.5:9 displays to ensure a perfect, edge-to-edge preview without distortion.
+* **Indie Speed:** A full-featured professional tool in just **4.2MB**.
+
+#### Download
 * 🤖 **Android:** [**Get it on Google Play**](https://play.google.com/store/apps/details?id=com.muxixisoft.android.timercamera)
 
 ---
 
-## Crystal Smash
+## 🧊 Crystal Smash
+**Satisfying Physics-based Block Puzzle**
 
-**Crystal Smash** is a satisfying physics-based block puzzle game. Experience realistic ice-shattering effects, trigger explosive combos, and challenge the global leaderboard.
+Experience the most realistic ice-shattering effects on mobile. **Crystal Smash** combines deep physics logic with satisfying visual feedback. Trigger explosive combos and challenge the global leaderboard in this meditative yet challenging puzzler.
 
-### Download
+#### Download
 * 🤖 **Android:** [**Get it on Google Play**](https://play.google.com/store/apps/details?id=com.muxixistudios.android.crystal_smash)
 
 ---
 
-## Quick Math Master
+## 🧠 Quick Math Master
+**Level Up Your Mental Calculation**
 
-**Quick Math Master** is a fun puzzle game designed to help you improve your mental math skills and calculation speed.
+Designed to sharpen your mind. **Quick Math Master** is a fast-paced puzzle game that helps you improve mental math skills and calculation speed through engaging, progressive challenges.
 
-### Download
+#### Download
 * 🤖 **Android:** [**Get it on Google Play**](https://play.google.com/store/apps/details?id=com.aimuxixi.quick_math_master)
 * 🍎 **iOS:** [**Download on the App Store**](https://apps.apple.com/app/id6755707607)
 
 ---
 
 ## Contact
-If you have any feedback or questions, feel free to email me at: **muxixisoft@gmail.com**
+I value user feedback and potential collaborations. Feel free to reach out:
+
+* **Email:** [muxixisoft@gmail.com](mailto:muxixisoft@gmail.com)
+* **Twitter/X:** [@MuxixiStudios](https://x.com/MuxixiSoft)
+
+© 2026 Muxixi Studios. All rights reserved.
