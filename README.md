@@ -16,6 +16,7 @@ Focusing on the intersection of utility and play. I am an indie developer dedica
 
 #### Download
 * 🤖 **Android:** [**Get it on Google Play**](https://play.google.com/store/apps/details?id=com.muxixisoft.android.timercamera)
+* 🍎 iOS: Coming soon to the App Store (Currently in Review)
 
 ---
 
