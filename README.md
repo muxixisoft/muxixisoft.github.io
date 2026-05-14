@@ -11,9 +11,9 @@ Focusing on the intersection of utility and play. We are dedicated to creating h
 
 #### 📱 Feature Comparison by Platform
 
-| Feature | 🤖 Android (v1.1.7) | 🍎 iOS (v1.0 - In Review) |
+| Feature | 🤖 Android (v1.5.6) | 🍎 iOS (v1.0 - In Review) |
 | :--- | :--- | :--- |
-| **Customizable Timer** | ✅ (3s to 30s) | ✅ (3s to 30s) |
+| **Customizable Timer** | ✅ (5s to 30s) | ✅ (5s to 30s) |
 | **Download Size** | 📦 4.2 MB | ⚡ **3.7 MB** |
 | **Privacy / No Ads** | ✅ Total Privacy | ✅ Zero Data Collection |
 | **Aesthetic Timestamps** | ✅ Cinema/Amber/Pixel | 🚧 *Roadmap Feature* |
