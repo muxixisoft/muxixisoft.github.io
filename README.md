@@ -23,7 +23,7 @@ Focusing on the intersection of utility and play. We are dedicated to creating h
 
 #### Download
 * 🤖 **Android:** [**Get it on Google Play**](https://play.google.com/store/apps/details?id=com.muxixisoft.android.timercamera)
-* 🍎 **iOS:** [**Download on the App Store**](https://apps.apple.com/app/id6768857092)
+* 🍎 **iOS:** [**Download on the App Store**](https://apps.apple.com/app/id6768857092)(Global Stores only; currently unavailable in Mainland China)
 
 ---
 
@@ -44,7 +44,7 @@ Designed to sharpen your mind. **Quick Math Master** is a fast-paced puzzle game
 
 #### Download
 * 🤖 **Android:** [**Get it on Google Play**](https://play.google.com/store/apps/details?id=com.aimuxixi.quick_math_master)
-* 🍎 **iOS:** [**Download on the App Store**](https://apps.apple.com/app/id6755707607)
+* 🍎 **iOS:** [**Download on the App Store**](https://apps.apple.com/app/id6755707607)(Global Stores only; currently unavailable in Mainland China)
 
 ---
 
