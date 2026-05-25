@@ -19,8 +19,6 @@ Focusing on the intersection of utility and play. We are dedicated to creating h
 | **Aesthetic Timestamps** | ✅ Cinema/Amber/Pixel | ✅ Cinema/Amber/Pixel |
 | **Video Watermarks** | ✅ Integrated | 🚧 *Roadmap Feature* |
 
-> **Note for iOS Users:** The initial 1.0 release focuses on providing the purest, most lightweight countdown experience. We are currently porting our signature **Aesthetic Timestamps** and **Video Watermarking** to the iOS engine for a future update.
-
 #### Download
 * 🤖 **Android:** [**Get it on Google Play**](https://play.google.com/store/apps/details?id=com.muxixisoft.android.timercamera)
 * 🍎 **iOS:** [**Download on the App Store**](https://apps.apple.com/app/id6768857092)(Global Stores only; currently unavailable in Mainland China)
