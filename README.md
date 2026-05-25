@@ -16,7 +16,7 @@ Focusing on the intersection of utility and play. We are dedicated to creating h
 | **Customizable Timer** | ✅ (5s to 30s) | ✅ (5s to 30s) |
 | **Download Size** | 📦 4.2 MB | ⚡ **3.7 MB** |
 | **Privacy / No Ads** | ✅ Total Privacy | ✅ Zero Data Collection |
-| **Aesthetic Timestamps** | ✅ Cinema/Amber/Pixel | 🚧 *Roadmap Feature* |
+| **Aesthetic Timestamps** | ✅ Cinema/Amber/Pixel | ✅ Cinema/Amber/Pixel |
 | **Video Watermarks** | ✅ Integrated | 🚧 *Roadmap Feature* |
 
 > **Note for iOS Users:** The initial 1.0 release focuses on providing the purest, most lightweight countdown experience. We are currently porting our signature **Aesthetic Timestamps** and **Video Watermarking** to the iOS engine for a future update.
