@@ -11,7 +11,7 @@ Focusing on the intersection of utility and play. We are dedicated to creating h
 
 #### 📱 Feature Comparison by Platform
 
-| Feature | 🤖 Android (v1.5.9) | 🍎 iOS (v1.2.1) |
+| Feature | 🤖 Android (v1.5.10) | 🍎 iOS (v1.2.1) |
 | :--- | :--- | :--- |
 | **Customizable Timer** | ✅ (5s to 30s) | ✅ (5s to 30s) |
 | **Download Size** | 📦 4.2 MB | ⚡ **3.7 MB** |
