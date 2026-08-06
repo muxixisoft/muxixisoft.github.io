@@ -11,12 +11,12 @@ Focusing on the intersection of utility and play. We are dedicated to creating h
 
 #### 📱 Feature Comparison by Platform
 
-| Feature | 🤖 Android (v1.6.3) | 🍎 iOS (v1.3.0) |
+| Feature | 🤖 Android (v1.7.8) | 🍎 iOS (v1.3.0) |
 | :--- | :--- | :--- |
 | **Customizable Timer** | ✅ (5s to 30s) | ✅ (5s to 30s) |
 | **Download Size** | 📦 4.2 MB | ⚡ **3.7 MB** |
 | **Privacy / No Ads** | ✅ Total Privacy | ✅ Zero Data Collection |
-| **Aesthetic Timestamps** | ✅ Cinema/Amber/Pixel | ✅ Cinema/Amber/Pixel |
+| **Aesthetic Timestamps** | ✅ Daily/Warm/Amber/Cinema | ✅ Daily/Warm/Amber/Cinema |
 | **Video Watermarks** | ✅ Integrated | 🚧 *Roadmap Feature* |
 
 #### Download
