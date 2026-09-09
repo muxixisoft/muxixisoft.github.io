@@ -1,55 +1,61 @@
 # Welcome to Muxixi Studios
 
-Focusing on the intersection of utility and play. We are dedicated to creating high-quality, lightweight, and purposeful digital experiences.
+> Crafting purposeful, lightweight digital tools and thoughtful mobile experiences.  
+> Built with precision, performance, and deep respect for user privacy.
 
 ---
 
 ## 📸 TimerCamera+
-### Professional Hands-free Photography & Precise Countdown
+### *Hands-free Photography, Continuous Burst & Curated Film Timestamps*
 
-**TimerCamera+** is a minimalist yet powerful camera utility built for precision. Designed to be "unburdened," it provides a seamless photography experience without the bloat of traditional camera apps.
+**TimerCamera+** is a minimalist yet professional camera utility crafted for solo travelers, fitness creators, and everyday memory-makers. Built without the bloat of traditional camera apps, it brings back the tactile joy of self-timed captures, high-speed burst shots, and authentic film-grade date stamps.
 
-#### 📱 Feature Comparison by Platform
+#### 📱 Dual-Platform Feature Matrix (v1.9.x)
 
-| Feature | 🤖 Android (v1.7.8) | 🍎 iOS (v1.3.0) |
+| Capabilities & Specs | 🤖 Android (v1.9.2) | 🍎 iOS (v1.9.1) |
 | :--- | :--- | :--- |
-| **Customizable Timer** | ✅ (5s to 30s) | ✅ (5s to 30s) |
-| **Download Size** | 📦 4.2 MB | ⚡ **3.7 MB** |
-| **Privacy / No Ads** | ✅ Total Privacy | ✅ Zero Data Collection |
-| **Aesthetic Timestamps** | ✅ Daily/Warm/Amber/Cinema | ✅ Daily/Warm/Amber/Cinema |
-| **Video Watermarks** | ✅ Integrated | 🚧 *Roadmap Feature* |
+| **Precision Countdown** | ✅ 3s / 5s / 10s / 15s / 30s | ✅ 3s / 5s / 10s / 15s / 30s |
+| **Burst Mode (Continuous)** | ✅ Multi-frame burst captures | ✅ Multi-frame burst captures |
+| **Classic Watermarks** | ✅ Daily / Warm / Amber / Cinema | ✅ Daily / Warm / Amber / Cinema |
+| **Master Pro Timestamp Pack** | ⭐ Retro 90s, Kodak Gold, Cyber Neon, Tokyo 1995 | ⭐ Retro 90s, Kodak Gold, Cyber Neon, Tokyo 1995 |
+| **Real-time Video Watermarking** | ✅ High-performance GL Shader | ⚡ Integrated Pipeline |
+| **Split Collage Editor** | ✅ In-app layout & stitch studio | 🚧 *Coming Soon* |
+| **Ultra HD / 2K Master Quality** | ✅ QHD High-res export | ✅ Full-sensor fidelity |
+| **App Footprint** | ⚡ **< 10 MB** (Instant Launch) | ⚡ **< 8 MB** (Ultra-light) |
+| **Privacy Guarantee** | 🔒 100% On-Device Processing | 🔒 Zero Cloud Data Tracking |
 
-#### Download
+#### 📥 Download & Install
 * 🤖 **Android:** [**Get it on Google Play**](https://play.google.com/store/apps/details?id=com.muxixisoft.android.timercamera)
-* 🍎 **iOS:** [**Download on the App Store**](https://apps.apple.com/app/id6768857092)(Global Stores only; currently unavailable in Mainland China)
+* 🍎 **iOS:** [**Download on the App Store**](https://apps.apple.com/app/id6768857092) *(Available in Global Stores)*
 
 ---
 
 ## 🧊 Crystal Smash
-### Satisfying Physics-based Block Puzzle
+### *Tactile Physics-Based Glass & Ice Destruction*
 
-Experience the most realistic ice-shattering effects on mobile. **Crystal Smash** combines deep physics logic with satisfying visual feedback. Trigger explosive combos and challenge the global leaderboard in this meditative yet challenging puzzler.
+A meditative yet challenging physics puzzler built around hyper-realistic shatter mechanics and dynamic audio-visual feedback. Break through intricate crystal structures, trigger chained explosive combos, and climb the global leaderboards.
 
-#### Download
+#### 📥 Download
 * 🤖 **Android:** [**Get it on Google Play**](https://play.google.com/store/apps/details?id=com.muxixistudios.android.crystal_smash)
 
 ---
 
 ## 🧠 Quick Math Master
-### Level Up Your Mental Calculation
+### *Progressive Mental Arithmetic Trainer*
 
-Designed to sharpen your mind. **Quick Math Master** is a fast-paced puzzle game that helps you improve mental math skills and calculation speed through engaging, progressive challenges.
+Sharpen your brain through high-speed mental calculation challenges. Designed for daily cognitive maintenance, offering clean, timed mathematical drills with progressive difficulty curves.
 
-#### Download
+#### 📥 Download
 * 🤖 **Android:** [**Get it on Google Play**](https://play.google.com/store/apps/details?id=com.aimuxixi.quick_math_master)
-* 🍎 **iOS:** [**Download on the App Store**](https://apps.apple.com/app/id6755707607)(Global Stores only; currently unavailable in Mainland China)
+* 🍎 **iOS:** [**Download on the App Store**](https://apps.apple.com/app/id6755707607) *(Available in Global Stores)*
 
 ---
 
-## Contact
-I value user feedback and potential collaborations. Feel free to reach out:
+## 📬 Contact & Studio Inquiries
+I actively welcome user feedback, bug reports, and independent developer collaborations.
 
-* **Email:** [muxixisoft@gmail.com](mailto:muxixisoft@gmail.com)
-* **Twitter/X:** [@MuxixiStudios](https://x.com/MuxixiSoft)
+* **Developer Email:** [muxixisoft@gmail.com](mailto:muxixisoft@gmail.com)
+* **Social / Updates (X):** [@MuxixiStudios](https://x.com/MuxixiSoft)
 
-© 2026 Muxixi Studios. All rights reserved.
+---
+© 2026 Muxixi Studios. Independent software development with purpose.
