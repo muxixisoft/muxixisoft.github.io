@@ -12,7 +12,7 @@
 
 #### 📱 Dual-Platform Feature Matrix (v1.9.x)
 
-| Capabilities & Specs | 🤖 Android (v1.9.2) | 🍎 iOS (v1.9.1) |
+| Capabilities & Specs | 🤖 Android (v1.9.1) | 🍎 iOS (v1.9.1) |
 | :--- | :--- | :--- |
 | **Precision Countdown** | ✅ 3s / 5s / 10s / 15s / 30s | ✅ 3s / 5s / 10s / 15s / 30s |
 | **Burst Mode (Continuous)** | ✅ Multi-frame burst captures | ✅ Multi-frame burst captures |
