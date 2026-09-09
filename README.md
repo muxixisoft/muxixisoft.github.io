@@ -18,9 +18,10 @@
 | **Burst Mode (Continuous)** | ✅ Multi-frame burst captures | ✅ Multi-frame burst captures |
 | **Classic Watermarks** | ✅ Daily / Warm / Amber / Cinema | ✅ Daily / Warm / Amber / Cinema |
 | **Master Pro Timestamp Pack** | ⭐ Retro 90s, Kodak Gold, Cyber Neon, Tokyo 1995 | ⭐ Retro 90s, Kodak Gold, Cyber Neon, Tokyo 1995 |
-| **Real-time Video Watermarking** | ✅ High-performance GL Shader | ⚡ Integrated Pipeline |
-| **Split Collage Editor** | ✅ In-app layout & stitch studio | 🚧 *Coming Soon* |
+| **Split Collage Studio** | ✅ In-app layout & multi-shot stitch | ✅ In-app layout & multi-shot stitch |
+| **Real-time Video Watermarking** | ✅ High-performance GL Shader | ⚡ Full-pipeline hardware rendering |
 | **Ultra HD / 2K Master Quality** | ✅ QHD High-res export | ✅ Full-sensor fidelity |
+| **Smart Battery & Standby Guard** | ✅ Two-stage hardware sleep engine | 🚧 *Optimization Roadmap* |
 | **App Footprint** | ⚡ **< 10 MB** (Instant Launch) | ⚡ **< 8 MB** (Ultra-light) |
 | **Privacy Guarantee** | 🔒 100% On-Device Processing | 🔒 Zero Cloud Data Tracking |
 
