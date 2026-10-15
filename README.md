@@ -38,12 +38,19 @@
 #### *Tactile Physics-Based Destruction*
 A meditative yet challenging physics puzzler built around realistic shatter mechanics and dynamic audio-visual feedback. Break through intricate crystal structures and trigger chained explosive combos.
 * 🤖 **Android:** [**Get it on Google Play**](https://play.google.com/store/apps/details?id=com.muxixistudios.android.crystal_smash)
+* 🍎 **iOS:** Coming soon to the App Store.
 
 ### 🧠 Quick Math Master
 #### *Progressive Mental Arithmetic Trainer*
 Sharpen your cognitive agility through clean, high-speed calculation drills designed for daily mental maintenance.
 * 🤖 **Android:** [**Get it on Google Play**](https://play.google.com/store/apps/details?id=com.aimuxixi.quick_math_master)
 * 🍎 **iOS:** [**Download on the App Store**](https://apps.apple.com/app/id6755707607)
+
+### 🕰️ Shanghai 1001 Nights
+#### *A Chrono-Historical Narrative Adventure*
+Step into the shoes of a curious time-traveling explorer unraveling the rich, living tapestry of Shanghai’s historic transformation. Navigate through lost eras—from misty Shikumen alleyways to the bustling riverside docks—discovering witty encounters, eccentric characters, and the fascinating stories that forged a legendary metropolis.
+* 🚀 **Status:** In Active Development (Unity Engine)
+* 📱 **Platforms:** iOS & Android · Coming Soon
 
 ---
 
