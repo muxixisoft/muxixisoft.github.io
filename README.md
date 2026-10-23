@@ -10,10 +10,12 @@
 
 **TimerCamera+** is a crafted camera utility designed for solo travelers, fitness creators, and everyday memory-makers who embrace solitude. Built without the bloat of traditional social cameras, it eliminates the awkward "tripod sprint" by combining acoustic voice triggers, high-speed burst sequences, and timeless film-grade date stamps.
 
-#### 📱 Dual-Platform Feature Matrix (v1.9.8)
+#### 📱 Dual-Platform Feature Matrix (v1.9.11)
 
-| Capabilities & Specs | 🤖 Android (v1.9.8) | 🍎 iOS (v1.9.8) |
+| Capabilities & Specs | 🤖 Android (v1.9.11) | 🍎 iOS (v1.9.11) |
 | :--- | :--- | :--- |
+| **Live Animated Stickers *(New)*** | 🎃 16 GPU Shader Stickers (4 Free + 12 VIP: Halloween, Xmas, Valentine, Birthday) | 🎃 16 GPU Shader Stickers (4 Free + 12 VIP: Halloween, Xmas, Valentine, Birthday) |
+| **Free-Gesture Sticker Studio** | ✅ Drag, pinch-scale, rotate & 4-way gravity tracking (Photo & Video) | ✅ Drag, pinch-scale, rotate & 4-way gravity tracking (Photo & Video) |
 | **"Hey" Acoustic Shutter** | ✅ Hands-free 3m voice trigger | ✅ Hands-free 3m voice trigger |
 | **Auditory Pose Cue (Beep)** | ✅ 500ms blind-pose signal | ✅ 500ms blind-pose signal |
 | **High-Speed Burst Mode** | ✅ 3 / 5 / 9 Rapid Frames | ✅ 3 / 5 / 9 Rapid Frames |
