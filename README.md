@@ -1,8 +1,7 @@
-# Welcome to Muxixi Studios (何兴华)
+# Welcome to Muxixi Studios
 
 > Crafting purposeful, lightweight digital tools and thoughtful mobile experiences.  
-> Built with precision, performance, and deep respect for user privacy.  
-> **Developer / 开发者姓名 (主体名称):** 何兴华 (HE XINGHUA) · **Studio / 业务账户名称:** Muxixi Studios
+> Built with precision, performance, and deep respect for user privacy.
 
 ---
 
@@ -67,14 +66,11 @@ Privacy is not an afterthought at Muxixi Studios—it is the bedrock of our soft
 
 ---
 
-## 📬 Contact & Studio Inquiries (开发者与主体信息)
+## 📬 Contact & Studio Inquiries
 I am a solo indie developer building software with care and purpose. I actively welcome user feedback, bug reports, and collaborations.
 
-* **Developer / 开发者姓名 (主体名称):** 何兴华 (HE XINGHUA)
-* **Studio / 业务账户名称:** Muxixi Studios
-* **Location / 地区:** 中国 / 上海 (Shanghai, China)
 * **Developer Email:** [muxixisoft@gmail.com](mailto:muxixisoft@gmail.com)
 * **Social / Updates (X):** [@MuxixiStudios](https://x.com/MuxixiSoft)
 
 ---
-© 2026 何兴华 (Muxixi Studios). Crafted with independence and care.
+© 2026 Muxixi Studios. Crafted with independence and care.
