@@ -379,35 +379,6 @@ a {
   margin-top: 1.35rem;
 }
 
-.trust-pills {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.65rem 1.2rem;
-  list-style: none;
-  margin: 1.3rem 0 0;
-  padding: 1rem 0 0;
-  border-top: 1px solid var(--border);
-  font-size: 0.86rem;
-  color: var(--text-muted);
-}
-
-.trust-pills li {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.45rem;
-}
-
-.mono-tag {
-  font-family: var(--font-mono);
-  font-size: 0.74rem;
-  font-weight: 700;
-  color: var(--text);
-  padding: 0.16rem 0.45rem;
-  border-radius: 6px;
-  background: var(--surface);
-  border: 1px solid var(--border);
-}
-
 /* Hero Vertical Reel Stage */
 .hero-media {
   display: flex;
