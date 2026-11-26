@@ -363,13 +363,43 @@ a {
 
 .hero-lead {
   margin: 0.9rem 0 0;
-  max-width: 54ch;
+  max-width: 50ch;
   font-size: clamp(1rem, 1.35vw, 1.14rem);
   color: var(--text-muted);
 }
 
-.hero-lead strong {
+.hero-highlights {
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+  list-style: none;
+  margin: 0.95rem 0 0;
+  padding: 0;
+  max-width: 54ch;
+  font-size: clamp(0.94rem, 1.2vw, 1.02rem);
+  line-height: 1.48;
+  color: var(--text-muted);
+}
+
+.hero-highlights li {
+  position: relative;
+  padding-left: 1.1rem;
+}
+
+.hero-highlights li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.56em;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background-color: var(--accent);
+}
+
+.hero-highlights strong {
   color: var(--text);
+  font-weight: 650;
 }
 
 .cta-row {
