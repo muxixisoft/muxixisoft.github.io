@@ -329,13 +329,13 @@ const TRANSLATIONS = {
       'Muxixi Studios のセルフタイマーカメラ「TimerCamera+」。拍手＆声シャッター、2台目アプリ不要の無料QR遠隔ライブファインダー、高速連写、レトロ日付スタンプをiOS＆Androidで。',
     iosUrl: 'https://apps.apple.com/app/apple-store/id6768857092?pt=128292627&ct=website_home_ja&mt=8',
     video: {
-      poster: 'assets/img/video-poster.jpg',
-      webm: 'assets/video/timercamera-promo-en.webm',
-      mp4: 'assets/video/timercamera-promo-en.mp4',
+      poster: 'assets/img/video-poster-ja.jpg',
+      webm: 'assets/video/timercamera-promo-ja.webm',
+      mp4: 'assets/video/timercamera-promo-ja.mp4',
       vtt: 'assets/video/timercamera-promo-ja.vtt',
       vttLang: 'ja',
       vttLabel: '日本語',
-      autoCaptions: true,
+      autoCaptions: false,
     },
     imgPrefix: 'assets/img/ja/',
     text: {
@@ -349,7 +349,7 @@ const TRANSLATIONS = {
       header_cta: 'アプリを入手',
       cta_ios: 'App Store でダウンロード',
       cta_android: 'Google Play で手に入れよう',
-      video_caption: '18秒デモ動画（日本語字幕対応）· 音をオンにすると拍手・シャッター音も確認できます',
+      video_caption: '18秒ハンズフリーデモ · 音をオンにすると拍手・シャッター音も確認できます',
       features_kicker: 'TIMERCAMERA+ が選ばれる理由',
       features_h2: '一人旅、カップル、集合写真のために設計',
       features_sub:
